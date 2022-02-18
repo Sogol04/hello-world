@@ -1,5 +1,6 @@
 # hello-world
 Just another repository :)
 
-Hiya Bot!
-I'm a highschool student engaged in the field of robotics and coding!
+I'm hoping to get familiar with the field of robotics and learn about the different mechanisms and designs.
+
+I would like to know how apps like pinterest and spotify work. I believe that they are very easy to use and they are very user friendly. 
